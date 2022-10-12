@@ -1,0 +1,1444 @@
+{
+  "Acanthite": {
+    "Highest Buy": "162",
+    "Lowest Sell": "179.99",
+    "Normalized Price": "173.99333333333334",
+    "Crafted Price": "173.99333333333334",
+    "Price": "173.99333333333334"
+  },
+  "Adjustor S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "699.4922338877723",
+    "Price": "699.4922338877723"
+  },
+  "Adjustor XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "568.2050877539865",
+    "Price": "568.2050877539865"
+  },
+  "Advanced Casing XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "411.9175184386888",
+    "Price": "411.9175184386888"
+  },
+  "Advanced Electronics": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "1817.5979190436851",
+    "Price": "1817.5979190436851"
+  },
+  "Advanced Glass": {
+    "Highest Buy": "2000",
+    "Lowest Sell": "0",
+    "Normalized Price": "2000",
+    "Crafted Price": null,
+    "Price": "2000"
+  },
+  "Advanced LED": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "873.7565141963321",
+    "Price": "873.7565141963321"
+  },
+  "Advanced Quantum Alignment Unit": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "8405.415431338108",
+    "Price": "8405.415431338108"
+  },
+  "Advanced Quantum Core": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "3297.3924777913717",
+    "Price": "3297.3924777913717"
+  },
+  "Advanced Screen XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "5390.49211862794",
+    "Price": "5390.49211862794"
+  },
+  "Ag-Li Reinforced Glass": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "911.0967139877741",
+    "Price": "911.0967139877741"
+  },
+  "Aileron M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "55718.32427743464",
+    "Price": "55718.32427743464"
+  },
+  "Aileron S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "17363.38411060469",
+    "Price": "17363.38411060469"
+  },
+  "Al-Fe Alloy": {
+    "Highest Buy": "36",
+    "Lowest Sell": "50",
+    "Normalized Price": "41.75",
+    "Crafted Price": "66.22842957703045",
+    "Price": "66.22842957703045"
+  },
+  "Al-Li Alloy": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Antenna S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "1431.6283062207415",
+    "Price": "1431.6283062207415"
+  },
+  "Atmospheric Fuel": {
+    "Highest Buy": "60",
+    "Lowest Sell": null,
+    "Normalized Price": "60",
+    "Crafted Price": "60",
+    "Price": "60"
+  },
+  "Atmospheric Fuel Tank XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "699.4922338877723",
+    "Price": "699.4922338877723"
+  },
+  "Barrier M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "4924.353471747882",
+    "Price": "4924.353471747882"
+  },
+  "Basic Assembly Line M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "16675.59759223978",
+    "Price": "16675.59759223978"
+  },
+  "Basic Atmospheric Engine L": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "140237.83237195955",
+    "Price": "140237.83237195955"
+  },
+  "Basic Atmospheric Engine M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "24427.621799630346",
+    "Price": "24427.621799630346"
+  },
+  "Basic Atmospheric Engine S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "4380.6656070661475",
+    "Price": "4380.6656070661475"
+  },
+  "Basic Atmospheric Engine XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "824.8117824700223",
+    "Price": "824.8117824700223"
+  },
+  "Basic Burner": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "627.8147606964799",
+    "Price": "627.8147606964799"
+  },
+  "Basic Casing XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "90.1816649967591",
+    "Price": "90.1816649967591"
+  },
+  "Basic Chemical Container M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "4669.6380667368485",
+    "Price": "4669.6380667368485"
+  },
+  "Basic Chemical Container XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "124.52778528786571",
+    "Price": "124.52778528786571"
+  },
+  "Basic Combustion Chamber L": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "29885.26939972932",
+    "Price": "29885.26939972932"
+  },
+  "Basic Combustion Chamber M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "4690.439847834763",
+    "Price": "4690.439847834763"
+  },
+  "Basic Combustion Chamber S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "754.2859649796526",
+    "Price": "754.2859649796526"
+  },
+  "Basic Combustion Chamber XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "124.59976376917338",
+    "Price": "124.59976376917338"
+  },
+  "Basic Component": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "60.207663251845865",
+    "Price": "60.207663251845865"
+  },
+  "Basic Connector": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "60.207663251845865",
+    "Price": "60.207663251845865"
+  },
+  "Basic Container L": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "266044.1410863169",
+    "Price": "266044.1410863169"
+  },
+  "Basic Container M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "130522.07054315846",
+    "Price": "130522.07054315846"
+  },
+  "Basic Container S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "24267.25531427851",
+    "Price": "24267.25531427851"
+  },
+  "Basic Container XL": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "768031.15751789",
+    "Price": "768031.15751789"
+  },
+  "Basic Container XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "8367.301392513546",
+    "Price": "8367.301392513546"
+  },
+  "Basic Control System XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "105.29849575022541",
+    "Price": "105.29849575022541"
+  },
+  "Basic Core System S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "616.6741437478861",
+    "Price": "616.6741437478861"
+  },
+  "Basic Electronics": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "60.207663251845865",
+    "Price": "60.207663251845865"
+  },
+  "Basic Fixation": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "40.99166590761777",
+    "Price": "40.99166590761777"
+  },
+  "Basic Gas Cylinder XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "124.52778528786571",
+    "Price": "124.52778528786571"
+  },
+  "Basic Hydraulics": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "629.6862012104793",
+    "Price": "629.6862012104793"
+  },
+  "Basic Iconic Chamber S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "760.5433277274794",
+    "Price": "760.5433277274794"
+  },
+  "Basic Injector": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "509.24889705170597",
+    "Price": "509.24889705170597"
+  },
+  "Basic LED": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "1.2954545454545452",
+    "Price": "1.2954545454545452"
+  },
+  "Basic Metalwork Industry M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "16649.685338969022",
+    "Price": "16649.685338969022"
+  },
+  "Basic Mining Unit L": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "135963.65702019725",
+    "Price": "135963.65702019725"
+  },
+  "Basic Mobile Panel M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "4669.6380667368485",
+    "Price": "4669.6380667368485"
+  },
+  "Basic Mobile Panel S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "752.3425459843456",
+    "Price": "752.3425459843456"
+  },
+  "Basic Ore Scanner L": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "22992.113453424918",
+    "Price": "22992.113453424918"
+  },
+  "Basic Pipe": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "58.956190702280495",
+    "Price": "58.956190702280495"
+  },
+  "Basic Power System": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "638.2012304695662",
+    "Price": "638.2012304695662"
+  },
+  "Basic Power Transformer": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "4721.726661573897",
+    "Price": "4721.726661573897"
+  },
+  "Basic Processor": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "561.3372410926538",
+    "Price": "561.3372410926538"
+  },
+  "Basic Quantum Core": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "275.7268131720955",
+    "Price": "275.7268131720955"
+  },
+  "Basic Refiner M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "16649.685338969022",
+    "Price": "16649.685338969022"
+  },
+  "Basic Reinforced Frame L": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "33806.44012944984",
+    "Price": "33806.44012944984"
+  },
+  "Basic Reinforced Frame M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "4857.6244069500735",
+    "Price": "4857.6244069500735"
+  },
+  "Basic Reinforced Frame S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "722.0793037358217",
+    "Price": "722.0793037358217"
+  },
+  "Basic Reinforced Frame XL": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "236448.15018694816",
+    "Price": "236448.15018694816"
+  },
+  "Basic Reinforced Frame XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "131.28714613378577",
+    "Price": "131.28714613378577"
+  },
+  "Basic Robotic Arm L": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "29770.128658451165",
+    "Price": "29770.128658451165"
+  },
+  "Basic Screen M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "2241.8371560569612",
+    "Price": "2241.8371560569612"
+  },
+  "Basic Screw": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "59.675975515357166",
+    "Price": "59.675975515357166"
+  },
+  "Basic Space Engine M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "28403.281386857965",
+    "Price": "28403.281386857965"
+  },
+  "Basic Standard Frame L": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "33398.6820328419",
+    "Price": "33398.6820328419"
+  },
+  "Basic Standard Frame M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "4799.033923165633",
+    "Price": "4799.033923165633"
+  },
+  "Basic Standard Frame S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "722.0793037358217",
+    "Price": "722.0793037358217"
+  },
+  "Basic Standard Frame XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "131.28714613378577",
+    "Price": "131.28714613378577"
+  },
+  "Bauxite": {
+    "Highest Buy": "26.01",
+    "Lowest Sell": "25.9",
+    "Normalized Price": "25.936666666666667",
+    "Crafted Price": "25.936666666666667",
+    "Price": "25.936666666666667"
+  },
+  "Bonsai": {
+    "Highest Buy": "10000000",
+    "Lowest Sell": null,
+    "Normalized Price": "10000000",
+    "Crafted Price": "10000000",
+    "Price": "10000000"
+  },
+  "Brick": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": "0",
+    "Crafted Price": "132.65234322186262",
+    "Price": "132.65234322186262"
+  },
+  "Cable Model C M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "256.4717664130967",
+    "Price": "256.4717664130967"
+  },
+  "Calcium Reinforced Copper": {
+    "Highest Buy": "100",
+    "Lowest Sell": "550",
+    "Normalized Price": "311.25",
+    "Crafted Price": "381.7592592592593",
+    "Price": "381.7592592592593"
+  },
+  "Catalyst 3": {
+    "Highest Buy": "0",
+    "Lowest Sell": "288000",
+    "Normalized Price": "136800",
+    "Crafted Price": "4728.445391046384",
+    "Price": "4728.445391046384"
+  },
+  "Catalyst 4": {
+    "Highest Buy": "25000",
+    "Lowest Sell": "5000000",
+    "Normalized Price": "2387500",
+    "Crafted Price": null,
+    "Price": "2387500"
+  },
+  "Catalyst 5": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Chromite": {
+    "Highest Buy": "110",
+    "Lowest Sell": "100",
+    "Normalized Price": "103.33333333333333",
+    "Crafted Price": "103.33333333333333",
+    "Price": "103.33333333333333"
+  },
+  "Coal": {
+    "Highest Buy": "27.5",
+    "Lowest Sell": "25",
+    "Normalized Price": "25.833333333333332",
+    "Crafted Price": "25.833333333333332",
+    "Price": "25.833333333333332"
+  },
+  "Cobaltite": {
+    "Highest Buy": "116.28",
+    "Lowest Sell": "239",
+    "Normalized Price": "198.09333333333333",
+    "Crafted Price": "198.09333333333333",
+    "Price": "198.09333333333333"
+  },
+  "Columbite": {
+    "Highest Buy": "100.11",
+    "Lowest Sell": "620",
+    "Normalized Price": "446.7033333333333",
+    "Crafted Price": "446.7033333333333",
+    "Price": "446.7033333333333"
+  },
+  "Compact Aileron M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "28359.16213871732",
+    "Price": "28359.16213871732"
+  },
+  "Construct Support L": {
+    "Highest Buy": "3000",
+    "Lowest Sell": null,
+    "Normalized Price": "3000",
+    "Crafted Price": "3000",
+    "Price": "3000"
+  },
+  "Construct Support M": {
+    "Highest Buy": "1000",
+    "Lowest Sell": null,
+    "Normalized Price": "1000",
+    "Crafted Price": "1000",
+    "Price": "1000"
+  },
+  "Container Hub XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "13202.624713238627",
+    "Price": "13202.624713238627"
+  },
+  "Corner Cable Model A S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "256.4717664130967",
+    "Price": "256.4717664130967"
+  },
+  "Corner Cable Model C S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "256.4717664130967",
+    "Price": "256.4717664130967"
+  },
+  "Cryolite": {
+    "Highest Buy": "121.09",
+    "Lowest Sell": "220",
+    "Normalized Price": "187.03",
+    "Crafted Price": "187.03",
+    "Price": "187.03"
+  },
+  "Cu-Ag Alloy": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Deprecated Dispenser M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "14189.206197775453",
+    "Price": "14189.206197775453"
+  },
+  "Duralumin": {
+    "Highest Buy": "0",
+    "Lowest Sell": "100",
+    "Normalized Price": "47.5",
+    "Crafted Price": "302.2689847776579",
+    "Price": "302.2689847776579"
+  },
+  "Fluoropolymer": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Garnierite": {
+    "Highest Buy": "179.14",
+    "Lowest Sell": "299",
+    "Normalized Price": "259.0466666666667",
+    "Crafted Price": "259.0466666666667",
+    "Price": "259.0466666666667"
+  },
+  "Glass": {
+    "Highest Buy": "0",
+    "Lowest Sell": "3",
+    "Normalized Price": "1.4249999999999998",
+    "Crafted Price": null,
+    "Price": "1.4249999999999998"
+  },
+  "Gold Nuggets": {
+    "Highest Buy": "111.22",
+    "Lowest Sell": "309",
+    "Normalized Price": "243.07333333333335",
+    "Crafted Price": "243.07333333333335",
+    "Price": "243.07333333333335"
+  },
+  "Gold-Coated Glass": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Grade 5 Titanium Alloy": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Hematite": {
+    "Highest Buy": "26",
+    "Lowest Sell": "25",
+    "Normalized Price": "25.333333333333332",
+    "Crafted Price": "25.333333333333332",
+    "Price": "25.333333333333332"
+  },
+  "Hull Decorative Element B S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "256.4717664130967",
+    "Price": "256.4717664130967"
+  },
+  "Hull Decorative Element C S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "256.4717664130967",
+    "Price": "256.4717664130967"
+  },
+  "Ilmenite": {
+    "Highest Buy": "100.11",
+    "Lowest Sell": "2000",
+    "Normalized Price": "1366.7033333333331",
+    "Crafted Price": "1366.7033333333331",
+    "Price": "1366.7033333333331"
+  },
+  "Inconel": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Kolbeckite": {
+    "Highest Buy": "102.12",
+    "Lowest Sell": "399.99",
+    "Normalized Price": "300.7",
+    "Crafted Price": "300.7",
+    "Price": "300.7"
+  },
+  "Limestone": {
+    "Highest Buy": "75",
+    "Lowest Sell": "69.5",
+    "Normalized Price": "71.33333333333333",
+    "Crafted Price": "71.33333333333333",
+    "Price": "71.33333333333333"
+  },
+  "Malachite": {
+    "Highest Buy": "135",
+    "Lowest Sell": "140",
+    "Normalized Price": "138.33333333333334",
+    "Crafted Price": "138.33333333333334",
+    "Price": "138.33333333333334"
+  },
+  "Mangaalloy": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Manganese Reinforced Glass": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Maraging Steel": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Modules": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "Crafted Price",
+    "Price": "Crafted Price"
+  },
+  "Natron": {
+    "Highest Buy": "155",
+    "Lowest Sell": "240",
+    "Normalized Price": "211.66666666666666",
+    "Crafted Price": "211.66666666666666",
+    "Price": "211.66666666666666"
+  },
+  "Petalite": {
+    "Highest Buy": "190",
+    "Lowest Sell": "239.99",
+    "Normalized Price": "223.32666666666668",
+    "Crafted Price": "223.32666666666668",
+    "Price": "223.32666666666668"
+  },
+  "Polycalcite Plastic": {
+    "Highest Buy": "60",
+    "Lowest Sell": "100",
+    "Normalized Price": "77.5",
+    "Crafted Price": "234.7707659115426",
+    "Price": "234.7707659115426"
+  },
+  "Polycarbonate Plastic": {
+    "Highest Buy": "23",
+    "Lowest Sell": "20",
+    "Normalized Price": "21",
+    "Crafted Price": "45.09083249837955",
+    "Price": "45.09083249837955"
+  },
+  "Polysulfide Plastic": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "366.82668594030923",
+    "Price": "366.82668594030923"
+  },
+  "Programming Board XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "817.0250650914841",
+    "Price": "817.0250650914841"
+  },
+  "Pure Aluminium": {
+    "Highest Buy": "25",
+    "Lowest Sell": "20",
+    "Normalized Price": "22",
+    "Crafted Price": "34.19051420352391",
+    "Price": "34.19051420352391"
+  },
+  "Pure Calcium": {
+    "Highest Buy": "82",
+    "Lowest Sell": "100",
+    "Normalized Price": "88.5",
+    "Crafted Price": "153.42592592592592",
+    "Price": "153.42592592592592"
+  },
+  "Pure Carbon": {
+    "Highest Buy": "25",
+    "Lowest Sell": "20",
+    "Normalized Price": "22",
+    "Crafted Price": "34.05429701546206",
+    "Price": "34.05429701546206"
+  },
+  "Pure Chromium": {
+    "Highest Buy": "150",
+    "Lowest Sell": "200",
+    "Normalized Price": "170",
+    "Crafted Price": "107.2037037037037",
+    "Price": "107.2037037037037"
+  },
+  "Pure Cobalt": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "338.21814814814815",
+    "Price": "338.21814814814815"
+  },
+  "Pure Copper": {
+    "Highest Buy": "200",
+    "Lowest Sell": "99",
+    "Normalized Price": "147.025",
+    "Crafted Price": "203.9814814814815",
+    "Price": "203.9814814814815"
+  },
+  "Pure Fluorine": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "322.2377777777778",
+    "Price": "322.2377777777778"
+  },
+  "Pure Gold": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "403.18925925925936",
+    "Price": "403.18925925925936"
+  },
+  "Pure Hydrogen": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0.09",
+    "Normalized Price": "0.042749999999999996",
+    "Crafted Price": "0",
+    "Price": "0.042749999999999996"
+  },
+  "Pure Iron": {
+    "Highest Buy": "30",
+    "Lowest Sell": "20",
+    "Normalized Price": "24.5",
+    "Crafted Price": "33.39518158935634",
+    "Price": "33.39518158935634"
+  },
+  "Pure Lithium": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "336.47185185185185",
+    "Price": "336.47185185185185"
+  },
+  "Pure Manganese": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "794.912962962963",
+    "Price": "794.912962962963"
+  },
+  "Pure Nickel": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "388.0674074074074",
+    "Price": "388.0674074074074"
+  },
+  "Pure Niobium": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "905.6537037037039",
+    "Price": "905.6537037037039"
+  },
+  "Pure Oxygen": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0.01",
+    "Normalized Price": "0.00475",
+    "Crafted Price": "0",
+    "Price": "0.00475"
+  },
+  "Pure Scandium": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "486.4277777777778",
+    "Price": "486.4277777777778"
+  },
+  "Pure Silicon": {
+    "Highest Buy": "7",
+    "Lowest Sell": "11",
+    "Normalized Price": "8.725",
+    "Crafted Price": "31.202524271844663",
+    "Price": "31.202524271844663"
+  },
+  "Pure Silver": {
+    "Highest Buy": "0",
+    "Lowest Sell": "600",
+    "Normalized Price": "285",
+    "Crafted Price": "265.2125925925926",
+    "Price": "265.2125925925926"
+  },
+  "Pure Sodium": {
+    "Highest Buy": "200",
+    "Lowest Sell": "300",
+    "Normalized Price": "242.5",
+    "Crafted Price": "309.9074074074074",
+    "Price": "309.9074074074074"
+  },
+  "Pure Sulfer": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "192.037037037037",
+    "Price": "192.037037037037"
+  },
+  "Pure Titanium": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "2234.5425925925924",
+    "Price": "2234.5425925925924"
+  },
+  "Pure Vanadium": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": "1272.2392592592591",
+    "Price": "1272.2392592592591"
+  },
+  "Pyrite": {
+    "Highest Buy": "120",
+    "Lowest Sell": "125",
+    "Normalized Price": "123.33333333333333",
+    "Crafted Price": "123.33333333333333",
+    "Price": "123.33333333333333"
+  },
+  "Quartz": {
+    "Highest Buy": "25.01",
+    "Lowest Sell": "23",
+    "Normalized Price": "23.67",
+    "Crafted Price": "23.67",
+    "Price": "23.67"
+  },
+  "Red Gold": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Retro-Rocket M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "9056.706907467655",
+    "Price": "9056.706907467655"
+  },
+  "Rhodonite": {
+    "Highest Buy": "150.11",
+    "Lowest Sell": "480",
+    "Normalized Price": "370.0366666666667",
+    "Crafted Price": "370.0366666666667",
+    "Price": "370.0366666666667"
+  },
+  "Rocket Fuel": {
+    "Highest Buy": "375",
+    "Lowest Sell": null,
+    "Normalized Price": "375",
+    "Crafted Price": "375",
+    "Price": "375"
+  },
+  "Sc-Al Alloy": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Silumin": {
+    "Highest Buy": "50",
+    "Lowest Sell": "49",
+    "Normalized Price": "48.275",
+    "Crafted Price": "64.85180977250855",
+    "Price": "64.85180977250855"
+  },
+  "Space Fuel": {
+    "Highest Buy": "150",
+    "Lowest Sell": null,
+    "Normalized Price": "150",
+    "Crafted Price": "150",
+    "Price": "150"
+  },
+  "Stainless Steel": {
+    "Highest Buy": "100",
+    "Lowest Sell": "300",
+    "Normalized Price": "192.5",
+    "Crafted Price": "195.40459067481717",
+    "Price": "195.40459067481717"
+  },
+  "Static Core Unit S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "4891.005579342614",
+    "Price": "4891.005579342614"
+  },
+  "Steel": {
+    "Highest Buy": "54",
+    "Lowest Sell": "40",
+    "Normalized Price": "46",
+    "Crafted Price": "65.64357306689288",
+    "Price": "65.64357306689288"
+  },
+  "Steel Column S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "237.92238510829642",
+    "Price": "237.92238510829642"
+  },
+  "Territory Scanner XL": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "2111581.6610966735",
+    "Price": "2111581.6610966735"
+  },
+  "Territory Unit": {
+    "Highest Buy": "20000",
+    "Lowest Sell": null,
+    "Normalized Price": "20000",
+    "Crafted Price": "20000",
+    "Price": "20000"
+  },
+  "Territory Unit M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "55817.2959231468",
+    "Price": "55817.2959231468"
+  },
+  "Ti-Nb Superconductor": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Tier 1 L Element": {
+    "Highest Buy": "15000",
+    "Lowest Sell": null,
+    "Normalized Price": "15000",
+    "Crafted Price": "15000",
+    "Price": "15000"
+  },
+  "Tier 1 M Element": {
+    "Highest Buy": "5000",
+    "Lowest Sell": null,
+    "Normalized Price": "5000",
+    "Crafted Price": "5000",
+    "Price": "5000"
+  },
+  "Tier 1 Product Material": {
+    "Highest Buy": "180",
+    "Lowest Sell": null,
+    "Normalized Price": "180",
+    "Crafted Price": "180",
+    "Price": "180"
+  },
+  "Tier 1 S Element": {
+    "Highest Buy": "1500",
+    "Lowest Sell": null,
+    "Normalized Price": "1500",
+    "Crafted Price": "1500",
+    "Price": "1500"
+  },
+  "Tier 1 XL Element": {
+    "Highest Buy": "60000",
+    "Lowest Sell": null,
+    "Normalized Price": "60000",
+    "Crafted Price": "60000",
+    "Price": "60000"
+  },
+  "Tier 1 XS Element": {
+    "Highest Buy": "375",
+    "Lowest Sell": null,
+    "Normalized Price": "375",
+    "Crafted Price": "375",
+    "Price": "375"
+  },
+  "Tier 2 L Element": {
+    "Highest Buy": "37500",
+    "Lowest Sell": null,
+    "Normalized Price": "37500",
+    "Crafted Price": "37500",
+    "Price": "37500"
+  },
+  "Tier 2 M Element": {
+    "Highest Buy": "12500",
+    "Lowest Sell": null,
+    "Normalized Price": "12500",
+    "Crafted Price": "12500",
+    "Price": "12500"
+  },
+  "Tier 2 Product Material": {
+    "Highest Buy": "562.5",
+    "Lowest Sell": null,
+    "Normalized Price": "562.5",
+    "Crafted Price": "562.5",
+    "Price": "562.5"
+  },
+  "Tier 2 Pure Material": {
+    "Highest Buy": "187.5",
+    "Lowest Sell": null,
+    "Normalized Price": "187.5",
+    "Crafted Price": "187.5",
+    "Price": "187.5"
+  },
+  "Tier 2 S Element": {
+    "Highest Buy": "3750",
+    "Lowest Sell": null,
+    "Normalized Price": "3750",
+    "Crafted Price": "3750",
+    "Price": "3750"
+  },
+  "Tier 2 XL Element": {
+    "Highest Buy": "150000",
+    "Lowest Sell": null,
+    "Normalized Price": "150000",
+    "Crafted Price": "150000",
+    "Price": "150000"
+  },
+  "Tier 2 XS Element": {
+    "Highest Buy": "937.5",
+    "Lowest Sell": null,
+    "Normalized Price": "937.5",
+    "Crafted Price": "937.5",
+    "Price": "937.5"
+  },
+  "Tier 3 Product Material": {
+    "Highest Buy": "1875",
+    "Lowest Sell": null,
+    "Normalized Price": "1875",
+    "Crafted Price": "1875",
+    "Price": "1875"
+  },
+  "Tier 3 Pure Material": {
+    "Highest Buy": "625",
+    "Lowest Sell": null,
+    "Normalized Price": "625",
+    "Crafted Price": "625",
+    "Price": "625"
+  },
+  "Tier 3 XS Element": {
+    "Highest Buy": "2343.7",
+    "Lowest Sell": null,
+    "Normalized Price": "2343.7",
+    "Crafted Price": "2343.7",
+    "Price": "2343.7"
+  },
+  "Tier 4 Product Material": {
+    "Highest Buy": "7031.25",
+    "Lowest Sell": null,
+    "Normalized Price": "7031.25",
+    "Crafted Price": "7031.25",
+    "Price": "7031.25"
+  },
+  "Tier 4 Pure Material": {
+    "Highest Buy": "2343.75",
+    "Lowest Sell": null,
+    "Normalized Price": "2343.75",
+    "Crafted Price": "2343.75",
+    "Price": "2343.75"
+  },
+  "Tier 5 Product Material": {
+    "Highest Buy": "35156.2",
+    "Lowest Sell": null,
+    "Normalized Price": "35156.2",
+    "Crafted Price": "35156.2",
+    "Price": "35156.2"
+  },
+  "Tier 5 Pure Material": {
+    "Highest Buy": "11718.7",
+    "Lowest Sell": null,
+    "Normalized Price": "11718.7",
+    "Crafted Price": "11718.7",
+    "Price": "11718.7"
+  },
+  "Transfer Unit L": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "139843.9943758444",
+    "Price": "139843.9943758444"
+  },
+  "Uncommon Assembly Line S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "12999.394534698795",
+    "Price": "12999.394534698795"
+  },
+  "Uncommon Assembly Line XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "3268.8245547948136",
+    "Price": "3268.8245547948136"
+  },
+  "Uncommon Chemical Container M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "40981.39970762389",
+    "Price": "40981.39970762389"
+  },
+  "Uncommon Component": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "223.99384441814487",
+    "Price": "223.99384441814487"
+  },
+  "Uncommon Connector": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "223.99384441814487",
+    "Price": "223.99384441814487"
+  },
+  "Uncommon Electronics": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "1270.095381650313",
+    "Price": "1270.095381650313"
+  },
+  "Uncommon Fixation": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "139.93079920496106",
+    "Price": "139.93079920496106"
+  },
+  "Uncommon Hydraulics": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "757.9210902925421",
+    "Price": "757.9210902925421"
+  },
+  "Uncommon LED": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "1000.7125",
+    "Price": "1000.7125"
+  },
+  "Uncommon Mining Unit L": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "266612.53557833435",
+    "Price": "266612.53557833435"
+  },
+  "Uncommon Mobile Panel S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "7048.387935548866",
+    "Price": "7048.387935548866"
+  },
+  "Uncommon Mobile Panel XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "1880.0763336668915",
+    "Price": "1880.0763336668915"
+  },
+  "Uncommon Ore Scanner L": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "214294.11580525353",
+    "Price": "214294.11580525353"
+  },
+  "Uncommon Ore Scanner XL": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "1229414.7306629454",
+    "Price": "1229414.7306629454"
+  },
+  "Uncommon Pipe": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "183.56039727508323",
+    "Price": "183.56039727508323"
+  },
+  "Uncommon Power System": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "1900.3245491984817",
+    "Price": "1900.3245491984817"
+  },
+  "Uncommon Quantum Core": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "1034.4465468247477",
+    "Price": "1034.4465468247477"
+  },
+  "Uncommon Refiner M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "69062.6125609548",
+    "Price": "69062.6125609548"
+  },
+  "Uncommon Reinforced Frame M": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "11215.914269738363",
+    "Price": "11215.914269738363"
+  },
+  "Uncommon Reinforced Frame S": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "1630.4064269912917",
+    "Price": "1630.4064269912917"
+  },
+  "Uncommon Reinforced Frame XL": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "548004.3534635743",
+    "Price": "548004.3534635743"
+  },
+  "Uncommon Reinforced Frame XS": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "261.04816374171",
+    "Price": "261.04816374171"
+  },
+  "Uncommon Screw": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "130.524081870855",
+    "Price": "130.524081870855"
+  },
+  "Uncommon Standard Frame L": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": "114832.77305960812",
+    "Price": "114832.77305960812"
+  },
+  "Vanadinite": {
+    "Highest Buy": "103.48",
+    "Lowest Sell": "999",
+    "Normalized Price": "700.4933333333333",
+    "Crafted Price": "700.4933333333333",
+    "Price": "700.4933333333333"
+  },
+  "Vanamer": {
+    "Highest Buy": "0",
+    "Lowest Sell": "0",
+    "Normalized Price": "0",
+    "Crafted Price": null,
+    "Price": "0"
+  },
+  "Warp Cell": {
+    "Highest Buy": "5000",
+    "Lowest Sell": null,
+    "Normalized Price": "5000",
+    "Crafted Price": "5000",
+    "Price": "5000"
+  },
+  "": {
+    "Highest Buy": null,
+    "Lowest Sell": null,
+    "Normalized Price": null,
+    "Crafted Price": null,
+    "Price": null
+  }
+}
